@@ -31,7 +31,7 @@ body {
 
 .letter-btn {
     position: absolute;
-    top: 50%;
+    top: 65%;
     left: 50%;
     transform: translate(-50%, -50%);
     text-align: center;
@@ -63,7 +63,7 @@ body {
 .cake-btn {
     text-align: center;
     position: absolute;
-    top: 15%;
+    top: 8%;
     left: 50%;
     transform: translateX(-50%);
     width: 90%;
