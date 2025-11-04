@@ -81,10 +81,10 @@ body {
     text-decoration: none;
 }
 
-.letter-img:hover {
+/*.letter-img:hover {
     opacity: 0.5;
     transition: opacity 0.3s ease;
-}
+}*/
 
 /*cake*/
 .candle-count-display {
